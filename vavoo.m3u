@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ASPORTS" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="A_SPORTS_1_720PFEED_1_" tvg-logo="https://raw.githubusercontent.com/73tred2/worksbetic/refs/heads/main/vavoo.png" group-title="Spor (164)",BEIN SPORTS 1 (720PFEED) (1)
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://sinepro-vavoo.hf.space/watch/aHR0cHM6Ly92YXZvby50by9wbGF5LzE3NzExMzc1MzkvaW5kZXgubTN1OA==.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_SPORTS_1_6_" tvg-logo="https://raw.githubusercontent.com/73tred2/worksbetic/refs/heads/main/vavoo.png" group-title="Spor (164)",BEIN SPORTS 1 (6)
 https://sinepro-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/300113394/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 (720P) (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_SPORTS_1_720P_1_" tvg-logo="https://raw.githubusercontent.com/73tred2/worksbetic/refs/heads/main/vavoo.png" group-title="Spor (164)",BEIN SPORTS 1 (720P) (1)
@@ -95,9 +90,6 @@ https://sinepro-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2212659820/in
 #EXTINF:-1 tvg-name="4K TR: A SPOR HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_A_SPOR_HD_1_" tvg-logo="https://raw.githubusercontent.com/73tred2/worksbetic/refs/heads/main/vavoo.png" group-title="Spor (164)",4K TR: A SPOR HD (1)
 https://sinepro-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1771137539/index.m3u8
 #EXTINF:-1 tvg-name="4K TR: EUROSPORT 1 HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_EUROSPORT_1_HD_1_" tvg-logo="https://raw.githubusercontent.com/73tred2/worksbetic/refs/heads/main/vavoo.png" group-title="Spor (164)",4K TR: EUROSPORT 1 HD (1)
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://sinepro-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2078862937/index.m3u8
 #EXTINF:-1 tvg-name="4K TR: EUROSPORT 2 HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_EUROSPORT_2_HD_1_" tvg-logo="https://raw.githubusercontent.com/73tred2/worksbetic/refs/heads/main/vavoo.png" group-title="Spor (164)",4K TR: EUROSPORT 2 HD (1)
 https://sinepro-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/4117227962/index.m3u8
